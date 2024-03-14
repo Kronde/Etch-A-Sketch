@@ -1,6 +1,6 @@
 👉 https://kronde.github.io/Etch-A-Sketch/ 👈
 
-# Etch-a-Sketch Web App
+# Etch-a-Sketch
 
 Welcome to the Etch-a-Sketch Web App! This simple web application allows users to draw and create various designs using their cursor, reminiscent of the classic Etch-a-Sketch toy.
 
